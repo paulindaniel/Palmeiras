@@ -1,77 +1,77 @@
-1 Campeonato Paulista: 1920
-1 Campeonato Paulista: 1926
-1 Campeonato Paulista: 1927
-1 Troféu Estevão Ronai: 1929
-1 Taça Fanfulla: 1929
-1 Taça C. Giusti: 1931
-1 Campeonato Paulista: 1932
-1 Campeonato Paulista: 1933
-1 Torneio Rio-São Paulo: 1933
-1 Campeonato Paulista: 1934
-1 Campeonato Paulista: 1936
-1 Campeonato Paulista: 1940
-1 Campeonato Paulista: 1942
-1 Campeonato Paulista: 1944
-1 Campeonato Paulista: 1947
-1 Torneio das Missões: 1947
-1 Campeonato Paulista: 1950
-1 Copa Rio (Torneio Internacional de Clubes Campeões): 1951
-1 Torneio Rio-São Paulo: 1951
-1 Taça Peñarol: 1951
-1 Troféu Cidade do México: 1952
-1 Campeonato Paulista: 1959
-1 Torneio do México: 1959
-1 Campeonato Brasileiro: 1960
-1 Torneio Quadrangular de Lima: 1962
-1 Torneio Cidade de Manizales: 1962
-1 Torneio de Florença: 1963
-1 Torneio do México: 1963
-1 Campeonato Paulista: 1963
-1 Campeonato Brasileiro: 1967
-1 Campeonato Brasileiro (Taça Brasil): 1967
-1 Copa Brasil-Japão: 1967
-1 Campeonato Brasileiro: 1969
-1 Troféu Cidade de Barcelona: 1969
-1 Troféu Ramón de Carranza: 1969
-1 Copa da Grécia: 1970
-1 Campeonato Brasileiro: 1972
-1 Campeonato Paulista: 1972
-1 Torneio Mar Del Plata: 1972
-1 Campeonato Brasileiro: 1973
-1 Campeonato Paulista: 1974
-1 Troféu Ramón de Carranza: 1974
-1 Troféu Ramón de Carranza: 1975
-1 Campeonato Paulista: 1975
-1 Copa Centenário da Imigração Italiana: 1975
-1 Copa Kirin: 1978
-1 Troféu Ademir da Guia: 1982
-1 Torneio Euro-América: 1991
-1 Torneio Euro-América: 1996
-1 Campeonato Paulista: 1993
-1 Campeonato Brasileiro: 1993
-1 Campeonato Paulista: 1994
-1 Campeonato Brasileiro: 1994
-1 Copa Brasil-Itália: 1994
-1 Torneio Lev Yashin: 1994
-1 Copa do Brasil: 1998
-1 Copa Mercosul: 1998
-1 Libertadores: 1999
-1 Copa dos Campeões: 2000
-1 Torneio Rio-São Paulo: 2000
-1 Campeonato Brasileiro Série B: 2003
-1 Campeonato Brasileiro Série B: 2013
-1 Copa do Brasil: 2012
-1 Copa do Brasil: 2015
-1 Campeonato Brasileiro: 2016
-1 Campeonato Brasileiro: 2018
-1 Libertadores: 2020
-1 Copa do Brasil: 2020
-1 Campeonato Paulista: 2020
-1 Torneio da Flórida: 2020
-1 Libertadores: 2021
-1 Campeonato Brasileiro: 2022
-1 Campeonato Paulista: 2022
-1 Supercopa do Brasil: 2023
-1 Campeonato Brasileiro: 2023
-1 Campeonato Paulista: 2023
-1 Campeonato Paulista: 2024
+1 Campeonato Paulista: 1920 💩  
+1 Campeonato Paulista: 1926 💩  
+1 Campeonato Paulista: 1927 💩  
+1 Troféu Estevão Ronai: 1929 💩  
+1 Taça Fanfulla: 1929 💩  
+1 Taça C. Giusti: 1931 💩  
+1 Campeonato Paulista: 1932 💩  
+1 Campeonato Paulista: 1933 💩  
+1 Torneio Rio-São Paulo: 1933 💩  
+1 Campeonato Paulista: 1934 💩  
+1 Campeonato Paulista: 1936 💩  
+1 Campeonato Paulista: 1940 💩  
+1 Campeonato Paulista: 1942 💩  
+1 Campeonato Paulista: 1944 💩  
+1 Campeonato Paulista: 1947 💩  
+1 Torneio das Missões: 1947 💩  
+1 Campeonato Paulista: 1950 💩  
+1 Copa Rio (Torneio Internacional de Clubes Campeões): 1951 💩  
+1 Torneio Rio-São Paulo: 1951 💩  
+1 Taça Peñarol: 1951 💩  
+1 Troféu Cidade do México: 1952 💩  
+1 Campeonato Paulista: 1959 💩  
+1 Torneio do México: 1959 💩  
+1 Campeonato Brasileiro: 1960 💩  
+1 Torneio Quadrangular de Lima: 1962 💩  
+1 Torneio Cidade de Manizales: 1962 💩  
+1 Torneio de Florença: 1963 💩  
+1 Torneio do México: 1963 💩  
+1 Campeonato Paulista: 1963 💩  
+1 Campeonato Brasileiro: 1967 💩  
+1 Campeonato Brasileiro (Taça Brasil): 1967 💩  
+1 Copa Brasil-Japão: 1967 💩  
+1 Campeonato Brasileiro: 1969 💩  
+1 Troféu Cidade de Barcelona: 1969 💩  
+1 Troféu Ramón de Carranza: 1969 💩  
+1 Copa da Grécia: 1970 💩  
+1 Campeonato Brasileiro: 1972 💩  
+1 Campeonato Paulista: 1972 💩  
+1 Torneio Mar Del Plata: 1972 💩  
+1 Campeonato Brasileiro: 1973 💩  
+1 Campeonato Paulista: 1974 💩  
+1 Troféu Ramón de Carranza: 1974 💩  
+1 Troféu Ramón de Carranza: 1975 💩  
+1 Campeonato Paulista: 1975 💩  
+1 Copa Centenário da Imigração Italiana: 1975 💩  
+1 Copa Kirin: 1978 💩  
+1 Troféu Ademir da Guia: 1982 💩  
+1 Torneio Euro-América: 1991 💩  
+1 Torneio Euro-América: 1996 💩  
+1 Campeonato Paulista: 1993 💩  
+1 Campeonato Brasileiro: 1993 💩  
+1 Campeonato Paulista: 1994 💩  
+1 Campeonato Brasileiro: 1994 💩  
+1 Copa Brasil-Itália: 1994 💩  
+1 Torneio Lev Yashin: 1994 💩  
+1 Copa do Brasil: 1998 💩  
+1 Copa Mercosul: 1998 💩  
+1 Libertadores: 1999 💩  
+1 Copa dos Campeões: 2000 💩  
+1 Torneio Rio-São Paulo: 2000 💩  
+1 Campeonato Brasileiro Série B: 2003 💩  
+1 Campeonato Brasileiro Série B: 2013 💩  
+1 Copa do Brasil: 2012 💩  
+1 Copa do Brasil: 2015 💩  
+1 Campeonato Brasileiro: 2016 💩  
+1 Campeonato Brasileiro: 2018 💩  
+1 Libertadores: 2020 💩  
+1 Copa do Brasil: 2020 💩  
+1 Campeonato Paulista: 2020 💩  
+1 Torneio da Flórida: 2020 💩  
+1 Libertadores: 2021 💩  
+1 Campeonato Brasileiro: 2022 💩  
+1 Campeonato Paulista: 2022 💩  
+1 Supercopa do Brasil: 2023 💩  
+1 Campeonato Brasileiro: 2023 💩  
+1 Campeonato Paulista: 2023 💩  
+1 Campeonato Paulista: 2024 💩  
